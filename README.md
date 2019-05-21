@@ -2,7 +2,9 @@
 SetPo_XT能通过数据库连接生成每张表的po文件，自动处理数据类型并附加注释
 ### 使用教程
 1.下载当前文件jar在package >>> SetPo_XT.jar
+
 2.在项目中引入SetPo_XT.jar
+
 3.调用FoundPo()
 
 
