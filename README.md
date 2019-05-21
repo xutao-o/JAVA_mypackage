@@ -21,3 +21,5 @@ SetPo_XT能通过数据库连接生成每张表的po文件，自动处理数据�
 	
 ### SetPo_XT.FoundPo(conas,"com.po");
 第一个参数为连接数据库后的Connection，第二参数为包名创建的po文件会在指定包名下
+
+码云地址：https://gitee.com/qiuqiu_XT/JAVA/tree/master
